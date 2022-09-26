@@ -1,0 +1,1 @@
+This is my first direcory in the alx SE git project
